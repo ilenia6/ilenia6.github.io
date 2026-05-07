@@ -1,5 +1,5 @@
 # 👩🏾‍💻 Ilenia
-### Data Scientist | Research‑Driven | Computational Biology & AI
+### Data Scientist | Research‑Driven | Computational Biology
 
 Welcome!  
 I’m a research‑driven **data scientist** with a background in **bioinformatics** and a strong focus on analytical thinking and scalable workflows.  
@@ -7,7 +7,7 @@ My path bridges **scientific rigor and data‑driven innovation**, helping trans
 
 🔭 **Current focus:** data science, machine learning, bioinformatics, workflow engineering, and automation  
 🌍 **Based in:** Italy 🇮🇹  
-📫 **Contact:** [LinkedIn]([your-link](https://www.linkedin.com/in/ilenia-urso-968255150/?skipRedirect=true)) · [Email](mailto:ilenia.urso6@email.com)
+📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/ilenia-urso-968255150/?skipRedirect=true) · [Email](mailto:ilenia.urso6@email.com)
 
 ---
 
