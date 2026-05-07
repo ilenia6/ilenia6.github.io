@@ -5,6 +5,9 @@ author_profile: true
 permalink: /
 sidebar:
   nav: "main"
+show_excerpts: false
+entries_layout: list
+classes: wide
 ---
 ### Data Scientist | Research‑Driven | Computational Biology
 
