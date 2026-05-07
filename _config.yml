@@ -20,10 +20,10 @@ author:
   links:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      url: "[linkedin.com](https://www.linkedin.com/in/ilenia-urso-968255150/)"
+      url: "https://www.linkedin.com/in/ilenia-urso-968255150/"
     - label: "GitHub"
       icon: "fab fa-github"
-      url: "[github.com](https://github.com/ilenia6)"
+      url: "https://github.com/ilenia6"
     - label: "Email"
       icon: "fas fa-envelope"
       url: "mailto:ilenia.urso6@email.com"
