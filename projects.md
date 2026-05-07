@@ -1,5 +1,7 @@
 ---
 title: "Projects"
+layout: single
+permalink: /projects/
 ---
 ### 🧬 Transcriptomics Data Analysis
 During my PhD, I optimezed multi‑species transcriptomic workflows for *de novo* assembly, annotation, and expression profiling of non‑model organisms.  
