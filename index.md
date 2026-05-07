@@ -1,5 +1,5 @@
 ---
-title: "👩🏾‍💻 Ilenia"
+title: "👩🏾‍💻 Ilenia Urso"
 layout: single
 author_profile: true
 permalink: /
@@ -9,8 +9,6 @@ show_excerpts: false
 entries_layout: list
 classes: wide
 ---
-### Data Scientist | Research‑Driven | Computational Biology
-
 Welcome!  
 I’m a research‑driven **data scientist** with a background in **bioinformatics** and a strong focus on analytical thinking and scalable workflows.  
 My path bridges **scientific rigor and data‑driven innovation**, helping transform complex data into actionable insights.
