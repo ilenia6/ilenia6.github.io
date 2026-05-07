@@ -1,5 +1,10 @@
 ---
 title: "👩🏾‍💻 Ilenia"
+layout: single
+author_profile: true
+permalink: /
+sidebar:
+  nav: "main"
 ---
 ### Data Scientist | Research‑Driven | Computational Biology
 
