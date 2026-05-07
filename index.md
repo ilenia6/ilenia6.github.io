@@ -15,8 +15,6 @@ I’m a research‑driven **data scientist** with a background in **bioinformati
 My path bridges **scientific rigor and data‑driven innovation**, helping transform complex data into actionable insights.
 
 🔭 **Current focus:** data science, machine learning, bioinformatics, workflow engineering, and automation  
-🌍 **Based in:** Italy 🇮🇹  
-📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/ilenia-urso-968255150/?skipRedirect=true) · [Email](mailto:ilenia.urso6@email.com)
 
 ---
 
