@@ -1,4 +1,6 @@
-# 👩🏾‍💻 Ilenia
+---
+title: "👩🏾‍💻 Ilenia"
+---
 ### Data Scientist | Research‑Driven | Computational Biology
 
 Welcome!  
