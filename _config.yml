@@ -7,6 +7,10 @@ plugins:
 markdown: kramdown
 paginate: 5
 paginate_path: /page:num/
+header_pages:
+  - about.md
+  - projects.md
+  - publications.md
 author:
   name: "Ilenia Urso"
   bio: "Data Scientist | Computational Biology & AI"
@@ -28,3 +32,4 @@ defaults:
     values:
       layout: single
       author_profile: true
+minimal_mistakes_skin: "dark"
