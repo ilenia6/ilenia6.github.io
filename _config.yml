@@ -1,9 +1,23 @@
-title: "Ilenia — Data Scientist & Computational Biologist"
-description: "Bioinformatics researcher transitioning into applied data science and AI, turning research experience into data‑driven solutions."
-theme: minima
+title: "Ilenia Urso — Data Scientist & Computational Biologist"
+description: "Data scientist with a background in bioinformatics, focused on analytics and automation."
+theme: "minimal-mistakes-jekyll"
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-include-cache
 markdown: kramdown
-header_pages:
-  - about.md
-  - projects.md
-  - publications.md
-show_excerpts: true
+paginate: 5
+paginate_path: /page:num/
+author:
+  name: "Ilenia Urso"
+  bio: "Data Scientist | Computational Biology & AI"
+  location: "Italy 🇮🇹"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "[linkedin.com](https://www.linkedin.com/in/ilenia-urso-968255150/)"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "[github.com](https://github.com/ilenia6)"
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:ilenia.urso6@email.com"
