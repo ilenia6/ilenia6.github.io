@@ -21,3 +21,12 @@ author:
     - label: "Email"
       icon: "fas fa-envelope"
       url: "mailto:ilenia.urso6@email.com"
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: single
+      author_profile: true
+minima:
+  skin: dark
