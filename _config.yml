@@ -1,0 +1,9 @@
+title: "Ilenia — Data Scientist & Computational Biologist"
+description: "Bioinformatics researcher transitioning into applied data science and AI, turning research experience into data‑driven solutions."
+theme: minima
+markdown: kramdown
+header_pages:
+  - about.md
+  - projects.md
+  - publications.md
+show_excerpts: true
