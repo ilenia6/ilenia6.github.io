@@ -1,5 +1,5 @@
 ---
-"Publications"
+title: "Publications"
 ---
 Author and co‑author of peer‑reviewed papers across genomics, transcriptomics, and workflow development.  
 My research has been featured in *mSphere*, *Scientific Data*, *PLOS One*, *Scientific Reports*, *Biology Letters*, and *Frontiers in Marine Science.*
