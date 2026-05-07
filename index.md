@@ -19,5 +19,3 @@ My path bridges **scientific rigor and data‑driven innovation**, helping trans
 - 🔍 **Genome Workflow Optimization** – automated and tuned pipelines for genome assembly and variant calling  
 - 🤖 **Machine Learning Coursework** – practical ML exercises from the DeepLearning.AI specialization
 👉 Explore full descriptions on the [**Projects page**](projects.md)
----
-> *“From scientific discovery to data‑driven solutions.”*
