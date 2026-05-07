@@ -1,3 +1,6 @@
+---
+title: "About Me"
+---
 I’m **Ilenia**, a computational biologist and data scientist passionate about bridging scientific discovery and applied data analysis.  
 With a background in genomics, transcriptomics, and workflow engineering, my work mainly focuses on turning complex data into clear, actionable insights.
 
