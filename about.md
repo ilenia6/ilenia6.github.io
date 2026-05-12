@@ -38,9 +38,6 @@ I combine an academic researcher's rigor with a data scientist's pragmatic minds
 - **Manual Genome Curation using PretextView** — Physalia
 - **Computational Methods for Epitranscriptomics** — ELIXIR-IIB
 - **Multivariate Statistical Analysis** — University of Padova
-- **Python Basics** - University of Michigan / Coursera
-- **Python Functions, Files and Dictionaries** - University of Michigan / Coursera
-- **Data Collection and Processing with Python** - University of Michigan / Coursera
 
 ---
 
