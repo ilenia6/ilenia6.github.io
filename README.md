@@ -1,16 +1,22 @@
-# 🌐 Ilenia Urso — Data Scientist & Computational Biologist
+# 🌐 ilenia6.github.io — Personal Portfolio
 
-This repository hosts my personal portfolio, available at  
+This repository hosts the source code of my personal portfolio website, available at  
 👉 **[ilenia6.github.io](https://ilenia6.github.io)**
 
-I’m a research‑driven data scientist with a background in bioinformatics, genomics, transcriptomics and workflow automation.  
-My goal is to bridge **scientific rigor and data‑driven innovation**, applying analytical thinking and reproducible data engineering to real‑world problems.
+Built with [Jekyll](https://jekyllrb.com) and the [Minimal Mistakes](https://mademistakes.com/work/jekyll-themes/minimal-mistakes/) theme.
 
-🔬 **Areas of interest**
-- Data science & machine learning  
-- Genomics, transcriptomics, and bioinformatics pipelines  
-- Workflow automation (Nextflow, Snakemake, Docker)  
-- HPC optimization and scalable data analysis
+---
 
+## 📄 Content
 
-📍 Learn more and explore my projects on [**ilenia6.github.io**](https://ilenia6.github.io)
+- **About** — background, technical skills, education, and certifications
+- **Projects** — selected projects
+- **Publications** — peer-reviewed papers in genomics, transcriptomics, and bioinformatics
+
+---
+
+## 🛠 Built with
+
+- Jekyll (static site generator)
+- Minimal Mistakes theme
+- GitHub Pages (hosting)
